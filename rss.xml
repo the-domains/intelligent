@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[intelligent]]></title>
-        <description><![CDATA[intelligent]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[intelligent websites]]></title>
+        <description><![CDATA[intelligent websites]]></description>
+        <link>https://thegrid.ai/intelligent/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 22:38:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 22:49:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/intelligent/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28d6ac88-3f1e-400d-ab68-cdaf85ba4d9b.jpg">]]></description>
-            <link>undefinedb0dc6f72-852c-44e9-9fbc-c3b9f10abe42/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7f1f286-00e8-4c9a-bfaf-6b0a2066f821.png">]]></description>
+            <link>https://thegrid.ai/intelligent/b0dc6f72-852c-44e9-9fbc-c3b9f10abe42/index.html</link>
             <guid isPermaLink="false">b0dc6f72-852c-44e9-9fbc-c3b9f10abe42</guid>
-            <pubDate>Sat, 30 Jan 2016 22:38:26 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 22:49:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
